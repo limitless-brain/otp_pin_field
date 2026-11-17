@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:otp_pin_field/otp_pin_field.dart';
 
 typedef OnDone = void Function(String text);
